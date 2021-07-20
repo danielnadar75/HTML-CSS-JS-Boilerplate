@@ -1,4 +1,4 @@
-#### This is a basic HTML CSS JS Boilerplate
+### This is a basic HTML CSS JS Boilerplate
 
 It has the following tools integrated:
 
@@ -14,3 +14,11 @@ Its a first custom HMTL-CSS-JS Boilerplate
 ### Usage
 
 Used for making client side apps using only HMTL,CSS,JS!
+
+### Development Build (with live reload)
+
+yarn start OR npm start
+
+### Production Build
+
+yarn build OR npm build
